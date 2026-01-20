@@ -32,13 +32,6 @@ The analysis centers on the following core metrics:
 - **campaign:** Campaign strategy data covering budgets, start and end dates, and campaign timelines.  
 - **users:** User demographic and interest data including gender, age, location, and interests.
 
-## Dashboard Preview
-### Meta Ad Facebook Dashboard   
-<img width="1294" height="739" alt="Screenshot 2026-01-20 153954" src="https://github.com/user-attachments/assets/78785a5a-4fd3-4a40-b09a-145e3bd1633a" />    
-
-### Meta Ad Instagram Dashboard  
-<img width="1288" height="733" alt="Screenshot 2026-01-20 154014" src="https://github.com/user-attachments/assets/8222583c-2c7b-403f-8e7c-5c6e983b98c2" />
-
 ## Key Insights
 • High CTR (~11–12%) indicates strong ad creatives and targeting  
 • Engagement Rate (~13.5%) shows good audience interest  
